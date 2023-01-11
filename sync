@@ -1,6 +1,8 @@
 #!/bin/bash
 
-export=`git status --porcelain`
+export PATH=$PATH:usr/local/bin
+
+gstatus=`git status --porcelain`
 
 if [ ${#gstatus} -ne 0 ]
 then
