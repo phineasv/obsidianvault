@@ -1,0 +1,4 @@
+- Quartile divide ordered data into quarters
+- Percentile divide ordered data into hundredths
+- Can use for [[Categorical Data Statistics#^5ed07f|Ordinal Categorical Data]]
+- [[Quantitative Data Python#^ae19b0|Tutorial Code]] 

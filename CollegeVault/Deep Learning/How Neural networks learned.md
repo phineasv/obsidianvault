@@ -1,0 +1,2 @@
+- Train the network and provide it with new and strange more data
+- Minimizing [[Cost function]]

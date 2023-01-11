@@ -1,0 +1,1 @@
+- Depend on [[Categorical Data Statistics#^534026 |mean]] 

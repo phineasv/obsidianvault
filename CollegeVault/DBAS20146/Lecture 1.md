@@ -1,0 +1,17 @@
+- Non-sequel databases is new
+- Relational Database is old
+	- Stored data in table
+	- Table is logical components
+	- Data becomes meaningful when put in the table
+- Data model is like class diagram in programming
+	- e.g: ER Diagram
+- Relational Database cannot handle curent information since it os hard to extract any data from it
+	- e.g: Twitter tweet
+- Characteristic: Consistency (Banking system, Business)
+	- Improved data sharing: Data used in Application
+- Repo: Table 
+- Database Dev Stage:
+	- Conceptual Model: What data that wee want to store
+	- Logical: What kind of database
+	- Physical Model: What application, the data type application gives
+- Primary and Foreign Keys

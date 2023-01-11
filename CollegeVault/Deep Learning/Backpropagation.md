@@ -1,0 +1,2 @@
+- Algorithm to handle crazy gradient
+- 

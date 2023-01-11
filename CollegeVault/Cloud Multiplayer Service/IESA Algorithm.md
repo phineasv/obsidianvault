@@ -1,0 +1,3 @@
+- 2 - phase heuristic approach
+	- Asisgning players to edge servers based on proximity and capacity constraints
+	- Perform reallocations untill interactivity cost and server provisioning cost are minimized.
