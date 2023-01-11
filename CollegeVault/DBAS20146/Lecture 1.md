@@ -15,3 +15,5 @@
 	- Logical: What kind of database
 	- Physical Model: What application, the data type application gives
 - Primary and Foreign Keys
+
+Hi my name is Nhat Truong Luu
