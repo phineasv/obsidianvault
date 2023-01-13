@@ -1,0 +1,5 @@
+- Premise: Society is a regulator that keeps people from acting in their narrow self-interest
+	- Beneath the society is a self-serving beast and in order to prevent this beast, we need to function in order
+	- See society as a living organism in which people need to function corectly in order to maintain the stability
+	- Strong rules, laws and norms of behaviors -> Everyone knows what is expected of them
+		- e.g: Important for society to have loower class as there are many jbs that need to be filled. 

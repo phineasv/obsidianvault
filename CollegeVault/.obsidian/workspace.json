@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "a56147e2fbc0b6c0",
+        "id": "4c826363481d0537",
         "type": "tabs",
         "children": [
           {
-            "id": "497c946c8cab9882",
+            "id": "f3da046a148b504c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBAS20146/Lecture 1.md",
+                "file": "Sociology/Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d23c1a58d75ab927",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sociology/Functionism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae0a50914b3ebacb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DBAS20146/Lecture 1.md",
+                "file": "Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DBAS20146/Lecture 1.md",
+                "file": "Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBAS20146/Lecture 1.md"
+                "file": "Lecture 1.md"
               }
             }
           },
@@ -156,17 +181,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e5f86d0988997222",
+  "active": "ae0a50914b3ebacb",
   "lastOpenFiles": [
+    "Sociology/Introduction.md",
+    "Sociology/Functionism.md",
+    "DBAS20146/Lecture 1.md",
     "Cloud Multiplayer Service/MEC.md",
     "Cloud Multiplayer Service/SIPA.md",
     "Cloud Multiplayer Service/DIAs.md",
     "Statistics/Histogram.md",
     "Statistics/Categorical Data Statistics.md",
     "Statistics/Box Plot.md",
-    "Statistics/Probability.md",
-    "Deep Learning/Activation of a layer neuron.md",
-    "Deep Learning/Backpropagation.md",
-    "Deep Learning/Cost function.md"
+    "Statistics/Probability.md"
   ]
 }
