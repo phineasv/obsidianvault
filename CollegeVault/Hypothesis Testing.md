@@ -3,3 +3,4 @@
 - Inferential statistics: 
 	- Using a sample to make inderences about a larger population
 	- Commonly used statistics: hypothesis testing, regression
+-My haxad
