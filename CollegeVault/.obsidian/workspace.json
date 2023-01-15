@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "80ccc8af363adb02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Page.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hypothesis Testing.md",
+                "file": "New Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hypothesis Testing.md",
+                "file": "New Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hypothesis Testing.md"
+                "file": "New Page.md"
               }
             }
           },
@@ -181,10 +193,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "311e08562c7e0494",
+  "active": "80ccc8af363adb02",
   "lastOpenFiles": [
-    "Untitled.md",
     "Hypothesis Testing.md",
+    "Untitled.md",
     "Terminal 101.md",
     "Pip Cheat Sheet.md",
     "PROG10065/Lecture 1.md",
