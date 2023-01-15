@@ -1,4 +1,4 @@
-```
+```bash
 ls
 pwd
 cd # Move to a folder in the same directory

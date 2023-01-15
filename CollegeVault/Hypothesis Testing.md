@@ -1,0 +1,5 @@
+- Descriptive statistics: Numerical and visual summaries of data; Summariziing data
+	- Commonly used statistics: average, median, frequency, standard deviation, range
+- Inferential statistics: 
+	- Using a sample to make inderences about a larger population
+	- Commonly used statistics: hypothesis testing, regression

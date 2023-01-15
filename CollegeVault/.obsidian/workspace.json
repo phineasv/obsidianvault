@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "4c826363481d0537",
+        "id": "d90a2016cc251949",
         "type": "tabs",
         "children": [
           {
-            "id": "f3da046a148b504c",
+            "id": "9304fc74824c6a43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sociology/Introduction.md",
+                "file": "Hypothesis Testing.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d23c1a58d75ab927",
+            "id": "f89c838e8d3daafd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sociology/Functionism.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ae0a50914b3ebacb",
+            "id": "311e08562c7e0494",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 1.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 1.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 1.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 1.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -181,17 +181,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ae0a50914b3ebacb",
+  "active": "311e08562c7e0494",
   "lastOpenFiles": [
+    "Hypothesis Testing.md",
+    "Terminal 101.md",
+    "Pip Cheat Sheet.md",
+    "Untitled.md",
+    "PROG10065/Lecture 1.md",
     "Sociology/Introduction.md",
     "Sociology/Functionism.md",
     "DBAS20146/Lecture 1.md",
     "Cloud Multiplayer Service/MEC.md",
-    "Cloud Multiplayer Service/SIPA.md",
-    "Cloud Multiplayer Service/DIAs.md",
-    "Statistics/Histogram.md",
-    "Statistics/Categorical Data Statistics.md",
-    "Statistics/Box Plot.md",
-    "Statistics/Probability.md"
+    "Cloud Multiplayer Service/SIPA.md"
   ]
 }
