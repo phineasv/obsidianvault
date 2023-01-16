@@ -10,7 +10,7 @@ samp = np.random.choice(dataset, sample_size, replace = False)
 - Central Limit Theorem (CLT)
 > 	Sampling distribution of the mean is normally distributed as long as the population is not too skewed or the sample size is large enough. Usually n>30 is good.
 > 	
-> 	**Only applies for mean sampling distribution** 
+> 	**Only applies for mean sampling distribution**  ^088e43
 - It means the mean of the population distribution is approximately equal the mean of mean distribution (if sampling about 500 times the sampling that has more than 30 values) or (if the population distribution is not too skewed)
 
 CLT break-up:
