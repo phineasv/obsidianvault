@@ -11,9 +11,11 @@
             "id": "9304fc74824c6a43",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Resources/Screen Shot 2022-12-17 at 10.48.11 AM.png"
+                "file": "Statistics/T-Tests.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -95,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Screen Shot 2022-12-17 at 10.48.11 AM.png",
+                "file": "Statistics/T-Tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Screen Shot 2022-12-17 at 10.48.11 AM.png",
+                "file": "Statistics/T-Tests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Screen Shot 2022-12-17 at 10.48.11 AM.png"
+                "file": "Statistics/T-Tests.md"
               }
             }
           },
@@ -168,15 +170,15 @@
   },
   "active": "9304fc74824c6a43",
   "lastOpenFiles": [
-    "Resources/Screenshot 2023-01-15 at 7.45.18 PM.png",
     "Statistics/Binomial Test.md",
     "Statistics/Hypothesis Testing.md",
-    "T-Tests.md",
+    "Statistics/Histogram.md",
+    "Statistics/Matplotlib.pyplot Module.md",
+    "Statistics/T-Tests.md",
+    "Resources/Screen Shot 2022-12-17 at 10.48.11 AM.png",
+    "Resources/Screenshot 2023-01-15 at 7.45.18 PM.png",
     "Statistics/Sampling Distribution.md",
     "Pip Cheat Sheet.md",
-    "Vocabulary.md",
-    "Untitled.md",
-    "New Page.md",
-    "Terminal 101.md"
+    "Vocabulary.md"
   ]
 }
