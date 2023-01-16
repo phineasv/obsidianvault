@@ -1,0 +1,11 @@
+- Descriptive statistics: Numerical and visual summaries of data; Summariziing data
+	- Commonly used statistics: average, median, frequency, standard deviation, range
+- Inferential statistics: 
+	- Using a sample to make inferences about a larger population
+		- Not every sample can reflect the right proportion of the population
+	- Commonly used statistics: hypothesis testing, regression
+		- Inferential statistics allow us to better understand the population via sampling
+
+- Hypothesis Testing is framework for asking qestions about dataset and answering them with probabilistic statements. Some tests:
+	- [[T-Tests]] 
+	- [[Binomial Test]] 
