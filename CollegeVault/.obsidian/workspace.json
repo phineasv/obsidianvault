@@ -11,8 +11,12 @@
             "id": "9304fc74824c6a43",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Statistics/Binomial Test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Statistics/Binomial Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Statistics/Binomial Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Statistics/Binomial Test.md"
+              }
             }
           },
           {
@@ -162,15 +170,15 @@
   },
   "active": "9304fc74824c6a43",
   "lastOpenFiles": [
-    "Statistics/Binomial Test.md",
     "Statistics/Hypothesis Testing.md",
+    "Screenshot 2023-01-15 at 7.45.18 PM.png",
+    "Screenshot 2023-01-15 at 7.47.58 PM.png",
+    "Screenshot 2023-01-15 at 7.46.19 PM.png",
+    "Statistics/Binomial Test.md",
     "T-Tests.md",
     "Statistics/Sampling Distribution.md",
     "Pip Cheat Sheet.md",
     "Vocabulary.md",
-    "Untitled.md",
-    "New Page.md",
-    "Terminal 101.md",
-    "PROG10065/Lecture 1.md"
+    "Untitled.md"
   ]
 }
